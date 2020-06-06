@@ -1,7 +1,7 @@
 git init
 git config --global user.name "Ahmed Gomaa"
 git config --global user.email "ahmedg1982@gmail.com"
-git remote add origin https://github.com/ahmedg82/usa_unrate
+git remote add origin https://github.com/ahmedg82/fandango
 git add .
 git commit -m "initial commit"
 git log
